@@ -1,13 +1,10 @@
 package provaProgetto;
 
-public class main {
+public class maino {
 
 	public static void main(String[] args) {
 		System.out.println("ciao");
-		System.out.println("ciao");
-		
-		
-		
+
 	}
 
 }
