@@ -11,7 +11,7 @@ import service.ClientiService;
 public class main {
 
 	public static void main(String[] args) {
-		
+		//
 		var context = new AnnotationConfigApplicationContext(ConfigApp.class);
 
 		var cliente = new Clienti();
